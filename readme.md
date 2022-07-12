@@ -51,7 +51,7 @@
 ## requests直接请求
 
 ### ① 腾讯云函数
-
+![image.png](https://s2.loli.net/2022/07/12/5aXVpYI4Ec6TUxD.png)
 
 
 
