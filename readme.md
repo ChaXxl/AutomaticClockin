@@ -24,6 +24,8 @@
 
 
 
+
+
 # 二、演示
 
 ## selenium
@@ -34,9 +36,17 @@
 
 
 
+
+
+
+
 ### ② Windows
 
 ![2022071215gfdsgdfg0124.png](https://s2.loli.net/2022/07/12/9fsHzURF1dbimK3.png)
+
+
+
+
 
 ## requests直接请求
 
@@ -52,9 +62,17 @@
 
 
 
+
+
 ### ③ Windows
 
 ![20220712fdafds150647.png](https://s2.loli.net/2022/07/12/94nPvcZ6AN8j73u.png)
+
+
+
+
+
+
 
 
 
@@ -87,6 +105,10 @@ pip install -r requirements.txt
 # 使用方法
 
 建议使用腾讯**云函数**通过**request**方法直接打卡（腾讯云函数有免费额度，相当于白嫖）
+
+
+
+
 
 
 
