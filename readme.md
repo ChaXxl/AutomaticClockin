@@ -114,6 +114,8 @@ pip install -r requirements.txt
 * 在速度上request比selenium快的多，个人也推荐用request方法
 * 如果要用腾讯云函数，自己百度怎么创建，注意将包安装在src目录即可。如：（pip3 install request -t ./src）
 * 如果要挂在服务器，如centos，则需要安装chrome，百度有教程
+* 如果使用服务器挂载脚本，则可以使用 `crontab` 创建定时任务，百度有教程
+* 如果使用Windows，则可以使用计划任务，百度也有教程
 
 
 
